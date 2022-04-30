@@ -1,0 +1,4 @@
+0. Copy Task1LiteralsHomeWork.java and Task2Calculator.java into your project under `src` folder
+1. Solve Task1LiteralsHomeWork.java
+2. Solve Task2Calculator.java
+3. Send it to maksim.baishev+telran@gmail.com
